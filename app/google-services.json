@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294578641009",
+    "firebase_url": "https://wizhub-6e7e6.firebaseio.com",
+    "project_id": "wizhub-6e7e6",
+    "storage_bucket": "wizhub-6e7e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294578641009:android:a31cbbb480de124bd563d0",
+        "android_client_info": {
+          "package_name": "com.wiz.okoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294578641009-qvhce75p97gvguf6j2tjvj2e38oijpag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiz.okoa",
+            "certificate_hash": "70fdc8b6e23e714843944bf699ca049314f54a73"
+          }
+        },
+        {
+          "client_id": "294578641009-3d14fm6gdt23nlmmnrjfragulf5rl8ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoia868YTqVn0Q3dQCRJYhPCWonTEomFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294578641009-3d14fm6gdt23nlmmnrjfragulf5rl8ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

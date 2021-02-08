@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wizhub Okoa</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyB-Y2bGfVpn4zANNn0DY6JDrAQU4Qyznx8</string>
+</resources>
